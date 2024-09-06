@@ -2,8 +2,8 @@
 /*
 Plugin Name: Admin Menu Width
 Description: A plugin to set the width of the WordPress admin menu.
-Version: 1.1
-Author: Thomas W
+Version: 1.0
+Author: Thomas Weschke \ WPDesigns4u.com
 Requires at least: 6.0
 Tested up to: 6.6
 Requires PHP: 7.4

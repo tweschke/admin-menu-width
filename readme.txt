@@ -1,10 +1,10 @@
 === Admin Menu Width ===
-Contributors: Thomas Weschke
-Donate link: [Your donation link if applicable]
+Contributors: Thomas Weschke | WPDesigns4u.com
+Donate link: Buy me a Coofee
 Tags: bricks builder, templates, import, export, sync
 Requires at least: 6.0
 Tested up to: 6.4
-Stable tag: 1.1
+Stable tag: 1.0
 Requires PHP: 7.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -55,20 +55,10 @@ Currently, the plugin does not support scheduled automatic syncs. You need to ma
 
 == Changelog ==
 
-= 1.0.1 =
-* Added changelog menu
-* Minor bug fixes and improvements
+= 1.0 =
+* Main Release
 
-= 1.0.0 =
-* Initial release
 
-== Upgrade Notice ==
-
-= 1.0.1 =
-This version adds a changelog menu and includes several bug fixes. It is recommended for all users.
-
-== Additional Notes ==
-
-For more information, please visit the [plugin's GitHub repository](link-to-your-github-repo).
+For more information, please visit the [plugin's GitHub repository](https://github.com/tweschke/admin-menu-width).
 
 If you encounter any issues or have suggestions for improvements, please open an issue on GitHub.
