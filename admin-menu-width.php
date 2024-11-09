@@ -22,4 +22,3 @@ function run_admin_menu_width() {
     $plugin->run();
 }
 run_admin_menu_width();
-?>

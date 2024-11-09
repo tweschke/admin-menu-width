@@ -14,7 +14,7 @@ class Admin_Menu_Width {
     private function load_dependencies() {
         require_once plugin_dir_path( dirname( __FILE__ ) ) . 'admin/admin-menu-width-admin.php';
         require_once plugin_dir_path( dirname( __FILE__ ) ) . 'admin/admin-menu-width-settings.php';
-        require_once plugin_dir_path( dirname( __FILE__ ) ) . 'includes/class-admin-menu-width-update-checker.php';
+        require_once plugin_dir_path( __FILE__ ) . 'class-admin-menu-width-update-checker.php';
     }
 
     private function define_admin_hooks() {
